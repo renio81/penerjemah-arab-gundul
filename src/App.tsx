@@ -139,7 +139,7 @@ export default function App() {
               value={inputText}
               onChange={(e) => setInputText(e.target.value)}
               placeholder="Masukkan teks Arab gundul di sini..."
-              className="flex-1 w-full min-h-[250px] resize-none outline-none text-lg text-slate-800 placeholder:text-slate-400 placeholder:text-right font-serif leading-loose"
+              className="flex-1 w-full min-h-[250px] resize-none outline-none text-3xl text-slate-800 placeholder:text-slate-400 placeholder:text-right font-amiri leading-loose"
             />
 
             {/* Selected File Preview Area */}
