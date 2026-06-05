@@ -1,0 +1,6 @@
+{
+  "name": "Penerjemah Arab Gundul",
+  "description": "Aplikasi penerjemah bahasa Arab tanpa harakat (Arab gundul) ke bahasa Indonesia dengan dukungan unggah gambar dan dokumen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
